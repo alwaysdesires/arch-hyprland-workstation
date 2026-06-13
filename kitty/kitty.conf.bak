@@ -1,0 +1,34 @@
+#font
+font_family JetBrainsMono Nerd Font
+font_size 12.0
+
+#window
+background_opacity 0.85
+confirm_os_window_close 0
+
+#padding
+window_padding_width 10
+
+#cursor
+cursor_shape beam
+cursor_blink_interval 0.5
+
+#performance
+enable_audio_bell no
+
+#theme colors
+foreground #cdd6f4
+foreground #1e1e2e
+
+selection_foreground #1e1e2e
+selection_foreground #f5e0dc
+
+#url style
+url_color #89b4fa
+
+#tabs
+tab_bar_edge top
+tab_bar_style powerline
+
+#window blur (works with hyprland)
+background_blur 8
