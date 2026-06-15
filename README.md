@@ -15,7 +15,7 @@ This project documents my journey from a fresh Arch Linux installation to a full
 
 ## About
 
-This project started as a learning journey to understand Linux beyond traditional desktop environments.
+This project started as a learning journey to understand Linux beyond traditional desktop environments, from learning what EFI is to publishing a documented Arch Linux workstation project.
 
 Rather than using a preconfigured setup, I manually built an Arch Linux workstation using Hyprland and Wayland while documenting the challenges, debugging process, and lessons learned along the way.
 
