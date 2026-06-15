@@ -1,3 +1,9 @@
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-Wayland-blue)
+![Wayland](https://img.shields.io/badge/Wayland-Linux-green)
+![Kitty](https://img.shields.io/badge/Terminal-Kitty-purple)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange)
+
 # Arch Hyprland Workstation
 
 ![Desktop](screenshots/desktop.png)
@@ -6,7 +12,13 @@ A custom Arch Linux workstation built from scratch on an HP ProBook using Hyprla
 
 This project documents my journey from a fresh Arch Linux installation to a fully customized Wayland desktop environment while learning Linux internals, system administration, debugging, and workflow optimization.
 
----
+## About
+
+This project started as a learning journey to understand Linux beyond traditional desktop environments.
+
+Rather than using a preconfigured setup, I manually built an Arch Linux workstation using Hyprland and Wayland while documenting the challenges, debugging process, and lessons learned along the way.
+
+The goal was not only customization, but also gaining hands-on experience with Linux internals, package management, system services, Wayland tooling, Git, and modern desktop workflows.
 
 ## Screenshots
 
