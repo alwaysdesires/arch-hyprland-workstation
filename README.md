@@ -3,6 +3,7 @@
 ![Wayland](https://img.shields.io/badge/Wayland-Linux-green)
 ![Kitty](https://img.shields.io/badge/Terminal-Kitty-purple)
 ![Git](https://img.shields.io/badge/Git-Version_Control-orange)
+![Version](https://img.shields.io/badge/Version-v1.0-success)
 
 # Arch Hyprland Workstation
 
