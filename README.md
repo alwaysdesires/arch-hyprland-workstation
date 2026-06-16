@@ -29,6 +29,13 @@ The goal was not only customization, but also gaining hands-on experience with L
 - System administration fundamentals
 - Incremental debugging
 
+## Demo Video
+
+A short walkthrough of the workstation is available in:
+
+- Videos/arch-demo.mp4
+- v1.0 Release assets
+
 ## Screenshots
 
 ### Desktop
