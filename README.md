@@ -21,6 +21,14 @@ Rather than using a preconfigured setup, I manually built an Arch Linux workstat
 
 The goal was not only customization, but also gaining hands-on experience with Linux internals, package management, system services, Wayland tooling, Git, and modern desktop workflows.
 
+## Lessons Learned
+
+- Linux troubleshooting
+- Wayland ecosystem tooling
+- Git and SSH workflows
+- System administration fundamentals
+- Incremental debugging
+
 ## Screenshots
 
 ### Desktop
